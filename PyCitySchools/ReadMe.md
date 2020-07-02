@@ -15,8 +15,6 @@ Homework Assignment, Data Science and Visualization Boot Camp (Northwestern Univ
 * Schools have assumed a major role in judging key elements of merit among young people—namely, academic skills, hard work, self-discipline, and cooperative behavior. Schools do so mainly by evaluating students in a variety of subjects deemed important for success later in life. The two most essential tests have been remaining  the same for many years are math and reading.
 
 ## DataSet Description and Basic Summary Analysis
-<details>
-<summary>Expand</summary>
 
 * We are asked to analyze the district-wide standardized test results based on every student's math and reading scores, as well as various information on the schools they attend. Revealing trends in school performance should be based on aggregation of the following data:
     1. District and school summary
@@ -30,8 +28,6 @@ Homework Assignment, Data Science and Visualization Boot Camp (Northwestern Univ
 * The district summary includes 15 schools (both district and charter) with a total number of 39,170 students and a total budget of $24,649,428 ($629.29 per student). Below is the summary of the given dataset:
 
 ![District Summary](Images/gen_summary.png)
-
-</details>
 
 ## Observations in Schools Performance
 <details>
