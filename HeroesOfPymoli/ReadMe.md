@@ -19,7 +19,7 @@ Homework Assignment, Data Science and Visualization Boot Camp (Northwestern Univ
     5. Most Popular Items
     6. Most Profitable Items
 
-* The district summary includes 15 schools (both district and charter) with a total number of 39,170 students and a total budget of $24,649,428 ($629.29 per student). Below is the summary of the given dataset:
+* The summary includes records of 579 players. Below is the summary of the given dataset:
 
 ![District Summary](images/gen_summary.png)
 
