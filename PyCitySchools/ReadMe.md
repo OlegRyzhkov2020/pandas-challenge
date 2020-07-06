@@ -51,6 +51,8 @@ Homework Assignment, Data Science and Visualization Boot Camp (Northwestern Univ
 
 ![Gender_table](images/gender_summary.png)
 
+![Gender_chart](images/gender_chart.png)
+
 </details>
 
 ## Case Conclusions
